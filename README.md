@@ -6,7 +6,7 @@ I'm in the process of being one of the best in programming! Let's do it!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreybizao/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1z4O)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1z4O&theme=blue-white)
 ![Andrey GitHub Stats](https://github-readme-stats.vercel.app/api?username=B1z4O&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br/>
