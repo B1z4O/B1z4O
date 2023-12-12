@@ -6,8 +6,8 @@ I'm in the process of being one of the best in programming! Let's do it!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreybizao/)
 
 
-![Andrey GitHub Stats](https://github-readme-stats.vercel.app/api?username=B1z4O&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1z4O)](https://github.com/anuraghazra/github-readme-stats)
+![Andrey GitHub Stats](https://github-readme-stats.vercel.app/api?username=B1z4O&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
