@@ -1,5 +1,5 @@
 ## Hi! I'm Andrey Bizão!
-#### I'm Python and Mechanical Engineering student!
+#### I'm Full Stack Developer student in Python and Mechanical Engineering student!
 
  - Hello, World! I'm 19 years old and a university student, fascinated by games, music and especially computers! I'm in the process of being one of the best in programming! This is my dream!
 
